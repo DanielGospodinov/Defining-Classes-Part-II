@@ -1,0 +1,7 @@
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\12\Defining-Classes-SecondPart-Homework\Generic\bin\Debug\Generic.exe.config
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\12\Defining-Classes-SecondPart-Homework\Generic\bin\Debug\Generic.exe
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\12\Defining-Classes-SecondPart-Homework\Generic\bin\Debug\Generic.pdb
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\12\Defining-Classes-SecondPart-Homework\Generic\obj\Debug\Generic.csprojAssemblyReference.cache
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\12\Defining-Classes-SecondPart-Homework\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\12\Defining-Classes-SecondPart-Homework\Generic\obj\Debug\Generic.exe
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\12\Defining-Classes-SecondPart-Homework\Generic\obj\Debug\Generic.pdb

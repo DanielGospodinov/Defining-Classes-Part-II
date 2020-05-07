@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DSpace", "3DSpace\3DSpace.csproj", "{620988AC-C411-47F3-BA21-4AD5B1F12204}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic", "Generic\Generic.csproj", "{79E145FD-A6C1-4A75-9E1D-76328EAFE49D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Оperators", "Оperators\Оperators.csproj", "{A7CA1AC0-AB45-4637-9C8C-D445C75F69EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{620988AC-C411-47F3-BA21-4AD5B1F12204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{620988AC-C411-47F3-BA21-4AD5B1F12204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{620988AC-C411-47F3-BA21-4AD5B1F12204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{620988AC-C411-47F3-BA21-4AD5B1F12204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79E145FD-A6C1-4A75-9E1D-76328EAFE49D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79E145FD-A6C1-4A75-9E1D-76328EAFE49D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79E145FD-A6C1-4A75-9E1D-76328EAFE49D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79E145FD-A6C1-4A75-9E1D-76328EAFE49D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7CA1AC0-AB45-4637-9C8C-D445C75F69EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7CA1AC0-AB45-4637-9C8C-D445C75F69EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7CA1AC0-AB45-4637-9C8C-D445C75F69EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7CA1AC0-AB45-4637-9C8C-D445C75F69EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7945D940-3FC8-4512-A879-46D31432B9CF}
+	EndGlobalSection
+EndGlobal

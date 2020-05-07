@@ -1,0 +1,21 @@
+C:\Users\dan13\source\repos\Defining_Classes_Part_II\3DSpace\bin\Debug\3DSpace.exe.config
+C:\Users\dan13\source\repos\Defining_Classes_Part_II\3DSpace\bin\Debug\3DSpace.exe
+C:\Users\dan13\source\repos\Defining_Classes_Part_II\3DSpace\bin\Debug\3DSpace.pdb
+C:\Users\dan13\source\repos\Defining_Classes_Part_II\3DSpace\obj\Debug\3DSpace.csprojAssemblyReference.cache
+C:\Users\dan13\source\repos\Defining_Classes_Part_II\3DSpace\obj\Debug\3DSpace.csproj.CoreCompileInputs.cache
+C:\Users\dan13\source\repos\Defining_Classes_Part_II\3DSpace\obj\Debug\3DSpace.exe
+C:\Users\dan13\source\repos\Defining_Classes_Part_II\3DSpace\obj\Debug\3DSpace.pdb
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\12\Defining-Classes-SecondPart-Homework\3DSpace\bin\Debug\3DSpace.exe.config
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\12\Defining-Classes-SecondPart-Homework\3DSpace\bin\Debug\3DSpace.exe
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\12\Defining-Classes-SecondPart-Homework\3DSpace\bin\Debug\3DSpace.pdb
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\12\Defining-Classes-SecondPart-Homework\3DSpace\obj\Debug\3DSpace.csprojAssemblyReference.cache
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\12\Defining-Classes-SecondPart-Homework\3DSpace\obj\Debug\3DSpace.csproj.CoreCompileInputs.cache
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\12\Defining-Classes-SecondPart-Homework\3DSpace\obj\Debug\3DSpace.exe
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\12\Defining-Classes-SecondPart-Homework\3DSpace\obj\Debug\3DSpace.pdb
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\12\Defining-Classes-SecondPart-Homework\New folder\Defining-Classes-Part-II\3DSpace\bin\Debug\3DSpace.exe.config
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\12\Defining-Classes-SecondPart-Homework\New folder\Defining-Classes-Part-II\3DSpace\bin\Debug\3DSpace.exe
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\12\Defining-Classes-SecondPart-Homework\New folder\Defining-Classes-Part-II\3DSpace\bin\Debug\3DSpace.pdb
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\12\Defining-Classes-SecondPart-Homework\New folder\Defining-Classes-Part-II\3DSpace\obj\Debug\3DSpace.csprojAssemblyReference.cache
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\12\Defining-Classes-SecondPart-Homework\New folder\Defining-Classes-Part-II\3DSpace\obj\Debug\3DSpace.csproj.CoreCompileInputs.cache
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\12\Defining-Classes-SecondPart-Homework\New folder\Defining-Classes-Part-II\3DSpace\obj\Debug\3DSpace.exe
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\12\Defining-Classes-SecondPart-Homework\New folder\Defining-Classes-Part-II\3DSpace\obj\Debug\3DSpace.pdb
